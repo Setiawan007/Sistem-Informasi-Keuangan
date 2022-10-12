@@ -1,0 +1,99 @@
+body{
+	background: #f9f9f9;
+}
+.pnl{
+	background-image: url("../../pattern.png");
+	background-repeat: repeat;
+	box-shadow: 0px 0px 10px 0px  #ddd;
+}
+
+.pnl .container{
+	padding: 60px 0px;
+}
+
+.pnl img{
+	height: auto;
+	width: auto;
+}
+
+
+/* navbar */
+.navbar-default2 {
+	background-color: #8232ab;
+	border-color: #E7E7E7;
+
+}
+/* Title */
+.navbar-default2 .active {
+	/*color: #f8f8f8;*/
+	/*background: blue;*/
+}
+
+.navbar-default2 .navbar-nav > .active > a, .navbar-default2 .navbar-nav > .active > a:hover, .navbar-default2 .navbar-nav > .active > a:focus {
+	background: #703190;
+}
+
+.navbar-default2 .navbar-brand {
+	color: #f8f8f8;
+}
+.navbar-default2 .navbar-brand:hover,
+.navbar-default2 .navbar-brand:focus {
+	color: #f8f8f8;
+}
+/* Link */
+.navbar-default2 .navbar-nav > li > a {
+	color: #f8f8f8;
+}
+.navbar-default2 .navbar-nav > li > a:hover,
+.navbar-default2 .navbar-nav > li > a:focus {
+	color: #f8f8f8;
+}
+.navbar-default2 .navbar-nav > .active > a,
+.navbar-default2 .navbar-nav > .active > a:hover,
+.navbar-default2 .navbar-nav > .active > a:focus {
+	/*color: #555;*/
+	/*background-color: #E7E7E7;*/
+}
+.navbar-default2 .navbar-nav > .open > a,
+.navbar-default2 .navbar-nav > .open > a:hover,
+.navbar-default2 .navbar-nav > .open > a:focus {
+	color: #f8f8f8;
+	background: #703190;
+
+}
+/* Caret */
+.navbar-default2 .navbar-nav > .dropdown > a .caret {
+	/*border-top-color: #777;*/
+	/*border-bottom-color: #777;*/
+}
+.navbar-default2 .navbar-nav > .dropdown > a:hover .caret,
+.navbar-default2 .navbar-nav > .dropdown > a:focus .caret {
+	/*border-top-color: #333;*/
+	/*border-bottom-color: #333;*/
+}
+.navbar-default2 .navbar-nav > .open > a .caret,
+.navbar-default2 .navbar-nav > .open > a:hover .caret,
+.navbar-default2 .navbar-nav > .open > a:focus .caret {
+	/*border-top-color: #555;*/
+	/*border-bottom-color: #555;*/
+}
+/* Mobile version */
+.navbar-default2 .navbar-toggle {
+	/*border-color: #DDD;*/
+}
+.navbar-default2 .navbar-toggle:hover,
+.navbar-default2 .navbar-toggle:focus {
+	/*background-color: #DDD;*/
+}
+.navbar-default2 .navbar-toggle .icon-bar {
+	/*background-color: #CCC;*/
+}
+@media (max-width: 767px) {
+	.navbar-default2 .navbar-nav .open .dropdown-menu > li > a {
+		/*color: #777;*/
+	}
+	.navbar-default2 .navbar-nav .open .dropdown-menu > li > a:hover,
+	.navbar-default2 .navbar-nav .open .dropdown-menu > li > a:focus {
+		/*color: #333;*/
+	}
+}
