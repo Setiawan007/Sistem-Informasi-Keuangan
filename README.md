@@ -7,47 +7,27 @@ Username: admin | Password: admin
 
 Sistem Informasi Keuangan adalah aplikasi yang dibuat dengan tujuan untuk memudahkan pengguna melakukan manajemen keuangan pribadi, perusahaan, instansi dan lain-lain.
 
-Aplikasi ini dibuat dengan menggunakan PHP Native dan menggunakan MySQL sebagai databasenya. Support PHP 7. Adapun fitur dari aplikasi ini adalah sebagai berikut :
-
-01 - Menggunakan template AdminLTE pada halaman dashboard
-
-02 - CRUD data kategori untuk pengeluaran atau pemasukan
-
-03 - Pengelolaan transaksi pengeluaran dan pemasukan
-
-04 - Pencatatan hutang
-
-05 - Pencatatan piutang
-
-06 - Pengelolaan akun rekening bank
-
-07 - Perhitungan otomatis pengeluaran dan pemasukan pada setiap akun bank
-
-08 - Pengelolaan data pengguna aplikasi
-
-09 - Terdapat 2 hak akses, yaitu Administrator dan Manajemen
-
-10 - Filter laporan keuangan berdasarkan tanggal (Perhari, perminggu, perbulan)
-
-11 - Filter laporan keuangan berdasarkan kategori pengeluaran atau pemasukan
-
-12 - Pencatatan arus kas
-
-13 - Fitur ganti password
-
-14 - Terdapat ringkasan pemasukan perhari, perbulan, pertahun dan seluruh pemasukan pada dashboard
-
-15 - Terdapat ringkasan pengeluaran perhari, perbulan, pertahun dan seluruh pengeluaran pada dashboard
-
-16 - Terdapat kalender pada dashboard
-
-17 - Terdapat grafik pengeluaran dan pemasukan setiap bulan
-
-18 - Terdapat grafik pengeluaran dan pemasukan setiap tahun
-
-19 - Pengguna memiliki foto profil yang bisa diubah sendiri
-
-20 - Login multi user (Administrator dan manajemen)
+Aplikasi ini dibuat dengan menggunakan PHP Native dan menggunakan MySQL sebagai databasenya. Support PHP 7. Adapun fitur dari aplikasi ini adalah sebagai berikut : <br>
+01 - Menggunakan template AdminLTE pada halaman dashboard<br>
+02 - CRUD data kategori untuk pengeluaran atau pemasukan<br>
+03 - Pengelolaan transaksi pengeluaran dan pemasukan<br>
+04 - Pencatatan hutang<br>
+05 - Pencatatan piutang<br>
+06 - Pengelolaan akun rekening bank<br>
+07 - Perhitungan otomatis pengeluaran dan pemasukan pada setiap akun bank<br>
+08 - Pengelolaan data pengguna aplikasi<br>
+09 - Terdapat 2 hak akses, yaitu Administrator dan Manajemen<br>
+10 - Filter laporan keuangan berdasarkan tanggal (Perhari, perminggu, perbulan)<br>
+11 - Filter laporan keuangan berdasarkan kategori pengeluaran atau pemasukan<br>
+12 - Pencatatan arus kas<br>
+13 - Fitur ganti password<br>
+14 - Terdapat ringkasan pemasukan perhari, perbulan, pertahun dan seluruh pemasukan pada dashboard<br>
+15 - Terdapat ringkasan pengeluaran perhari, perbulan, pertahun dan seluruh pengeluaran pada dashboard<br>
+16 - Terdapat kalender pada dashboard<br>
+17 - Terdapat grafik pengeluaran dan pemasukan setiap bulan<br>
+18 - Terdapat grafik pengeluaran dan pemasukan setiap tahun<br>
+19 - Pengguna memiliki foto profil yang bisa diubah sendiri<br>
+20 - Login multi user (Administrator dan manajemen)<br>
 
 # Support Me
 <br>
