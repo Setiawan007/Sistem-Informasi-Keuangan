@@ -2,7 +2,7 @@
 
 # Sistem Informasi Keuangan
 
-Demo: https://keuangan.scodeku.my.id/v1
+Demo: https://keuangan.scodeku.my.id/v1 <br>
 Username: admin | Password: admin
 
 Sistem Informasi Keuangan adalah aplikasi yang dibuat dengan tujuan untuk memudahkan pengguna melakukan manajemen keuangan pribadi, perusahaan, instansi dan lain-lain.
