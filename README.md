@@ -1,6 +1,10 @@
 <a href="https://github.com/Setiawan007/"><img src="https://raw.githubusercontent.com/Setiawan007/Sistem-Informasi-Keuangan/b49eb0af4168ce1f436d0c3068be73e60b4588c8/SS.png" alt="images-1" border="0"></a>
 
 # Sistem Informasi Keuangan
+
+Demo: https://keuangan.scodeku.my.id/v1
+Username: admin | Password: admin
+
 Sistem Informasi Keuangan adalah aplikasi yang dibuat dengan tujuan untuk memudahkan pengguna melakukan manajemen keuangan pribadi, perusahaan, instansi dan lain-lain.
 
 Aplikasi ini dibuat dengan menggunakan PHP Native dan menggunakan MySQL sebagai databasenya. Support PHP 7. Adapun fitur dari aplikasi ini adalah sebagai berikut :
